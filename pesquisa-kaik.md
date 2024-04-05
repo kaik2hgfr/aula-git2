@@ -5,5 +5,11 @@ GitHub é uma plataforma de desenvolvimento colaborativo de software baseada em 
 ![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJo5M-5n9zg1x_i99RAIi_oFfqek8hTCETnsGwF3gVQ&s)
 
 
+# CONCEITO vs code :
 
+O Visual Studio Code (VS Code) é um editor de código-fonte gratuito e de código aberto desenvolvido pela Microsoft. Ele oferece suporte a várias linguagens de programação, é altamente extensível, possui terminal integrado, integração com Git, recursos de depuração e autocompletar inteligente. É amplamente utilizado por desenvolvedores de software devido à sua usabilidade e funcionalidades avançadas.
+
+
+
+![vs code](https://hub.asimov.academy/wp-content/uploads/2022/03/vscode-logo-1.jpeg)
 
