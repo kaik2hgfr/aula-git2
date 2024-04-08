@@ -13,3 +13,11 @@ O Visual Studio Code (VS Code) é um editor de código-fonte gratuito e de códi
 
 ![vs code](https://hub.asimov.academy/wp-content/uploads/2022/03/vscode-logo-1.jpeg)
 
+
+# CONCEITO GIT : 
+
+Git é um software de controle de versões desenhado por Linus Torvalds, o criador do Linux. O propósito do Git é levar um registro de mudanças e coordenar o trabalho de várias pessoas em um repositório compartilhado.
+
+
+![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O3EiMKz9ka32VYePgSLMN89-iWCh3QhffWFr6uKU2A&s)
+
